@@ -1,3 +1,7 @@
+# personal 
+```
+source ../../../dev/bin/activate
+```
 # CTF Data
 
 ## Installing
